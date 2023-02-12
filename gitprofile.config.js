@@ -99,16 +99,23 @@ const config = {
     {
       title: 'FarmToDoorExpress',
       description:
-        'Designed and developed the "Customer frontend PWA", "Admin, Delivery & Vendor dashboard", "Customer & Delivery mobile apps" for a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup. >>> Typescript, ReactJs, React native, NextJs, NestJs, MongoDB, Circle CI, Digital Ocean ',
+        'Designed and developed the "Customer frontend PWA", "Admin, Delivery & Vendor dashboard", "Customer & Delivery mobile apps" for a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup. >>> Typescript, ReactJs, React native, NextJs, NestJs, MongoDB, Circle CI, Digital Ocean',
       imageUrl: 'https://media.licdn.com/dms/image/C4D2DAQHvgYrO-FFjEQ/profile-treasury-image-shrink_800_800/0/1667891501268?e=1676772000&v=beta&t=YJbFR9k_BYb6MDnQd0ds1YdYoGxxeQ7CS-OD7LYhuqo',
       link: 'https://farmtodoorexpress.com/',
     },
     {
-      title: 'Project Name',
+      title: 'Heartszibah Ecomerce',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Designed and developed the "Customer frontend PWA", "Ecommerce & Fintech backend" for a fast-growing conglomerate LLC, established and incorporated, having her co-operate office in Port Harcourt, Nigeria with both physical and online stores that are devoted to providing first-class and world-beating products and services lines. >>> Typescript, ReactJs, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://hz-next-shop.vercel.app/',
+    },
+    {
+      title: 'Heartszibah Admin',
+      description:
+        'created and developed the "Admin, & Vendor dashboard" for a rapidly expanding conglomerate LLC with a co-operate office in Port Harcourt, Nigeria, that manages the business,s e-commerce and Fintech Apps. This conglomerate has both physical and online stores dedicated to offering first-rate and world-beating product and service lines. >>> Typescript, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://hz-next-admin.vercel.app/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
