@@ -69,6 +69,13 @@ const config = {
       to: 'August 2022',
       companyLink: 'https://roarnigeria.org/',
     },
+    {
+      company: 'Blaitware',
+      position: 'Senior Software Engineer',
+      from: 'February 2016',
+      to: 'Present (Part-time)',
+      companyLink: 'https://roarnigeria.org/',
+    },
   ],
   /* certifications: [
     {
@@ -85,22 +92,16 @@ const config = {
       from: '2016',
       to: '2021',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'FarmToDoorExpress',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Farmtodoor is a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup.',
+      imageUrl: 'https://media.licdn.com/dms/image/C4D2DAQHvgYrO-FFjEQ/profile-treasury-image-shrink_800_800/0/1667891501268?e=1676772000&v=beta&t=YJbFR9k_BYb6MDnQd0ds1YdYoGxxeQ7CS-OD7LYhuqo',
+      link: 'https://farmtodoorexpress.com/',
     },
     {
       title: 'Project Name',
