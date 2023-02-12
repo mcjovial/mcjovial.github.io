@@ -97,23 +97,30 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'FarmToDoorExpress',
+      title: 'FarmToDoorExpress PWA',
       description:
-        'Designed and developed the "Customer frontend PWA", "Admin, Delivery & Vendor dashboard", "Customer & Delivery mobile apps" for a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup. >>> Typescript, ReactJs, React native, NextJs, NestJs, MongoDB, Circle CI, Digital Ocean',
+        'Designed and developed the "Customer frontend PWA" and "Admin, Delivery & Vendor dashboard," for a geolocation-based grocery shopping and delivery marketplace with a focus on Tanzania. It is a Mustardgreen-owned startup. >>> Typescript, ReactJs, React native, NextJs, NestJs, MongoDB, Circle CI, Digital Ocean',
+      imageUrl: 'https://media.licdn.com/dms/image/C4D2DAQHvgYrO-FFjEQ/profile-treasury-image-shrink_800_800/0/1667891501268?e=1676772000&v=beta&t=YJbFR9k_BYb6MDnQd0ds1YdYoGxxeQ7CS-OD7LYhuqo',
+      link: 'https://farmtodoorexpress.com/',
+    },
+    {
+      title: 'FarmToDoorExpress mobile apps',
+      description:
+        'Designed and developed the "Customer & Delivery mobile apps" for a geolocation-based grocery shopping and delivery marketplace with a focus on Tanzania. It is a Mustardgreen-owned startup. >>> Typescript, ReactJs, React native, Circle CI',
       imageUrl: 'https://media.licdn.com/dms/image/C4D2DAQHvgYrO-FFjEQ/profile-treasury-image-shrink_800_800/0/1667891501268?e=1676772000&v=beta&t=YJbFR9k_BYb6MDnQd0ds1YdYoGxxeQ7CS-OD7LYhuqo',
       link: 'https://farmtodoorexpress.com/',
     },
     {
       title: 'Heartszibah Ecomerce',
       description:
-        'Designed and developed the "Customer frontend PWA", "Ecommerce & Fintech backend" for a fast-growing conglomerate LLC, established and incorporated, having her co-operate office in Port Harcourt, Nigeria with both physical and online stores that are devoted to providing first-class and world-beating products and services lines. >>> Typescript, ReactJs, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
+        'designed and created the "Customer frontend PWA," and "Ecommerce & Fintech backend," for a rapidly expanding conglomerate LLC with a co-operate office in Port Harcourt, Nigeria, and physical and online stores dedicated to offering first-rate and world-beating product and service lines. >>> Typescript, ReactJs, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://hz-next-shop.vercel.app/',
     },
     {
       title: 'Heartszibah Admin',
       description:
-        'created and developed the "Admin, & Vendor dashboard" for a rapidly expanding conglomerate LLC with a co-operate office in Port Harcourt, Nigeria, that manages the business,s e-commerce and Fintech Apps. This conglomerate has both physical and online stores dedicated to offering first-rate and world-beating product and service lines. >>> Typescript, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
+        'Designed and developed the "Admin, & Vendor dashboard" for a rapidly expanding conglomerate LLC with a co-operate office in Port Harcourt, Nigeria, that manages the business,s e-commerce and Fintech Apps. This conglomerate has both physical and online stores dedicated to offering first-rate and world-beating product and service lines. >>> Typescript, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://hz-next-admin.vercel.app/',
     },
@@ -137,7 +144,7 @@ const config = {
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
