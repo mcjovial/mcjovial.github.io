@@ -124,13 +124,13 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://hz-next-admin.vercel.app/',
     },
-    {
-      title: 'Heartszibah Admin',
-      description:
-        'Designed and developed the "Admin, & Vendor dashboard" for a rapidly expanding conglomerate LLC with a co-operate office in Port Harcourt, Nigeria, that manages the business,s e-commerce and Fintech Apps. This conglomerate has both physical and online stores dedicated to offering first-rate and world-beating product and service lines. >>> Typescript, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://hz-next-admin.vercel.app/',
-    },
+//     {
+//       title: 'Heartszibah Admin',
+//       description:
+//         'Designed and developed the "Admin, & Vendor dashboard" for a rapidly expanding conglomerate LLC with a co-operate office in Port Harcourt, Nigeria, that manages the business,s e-commerce and Fintech Apps. This conglomerate has both physical and online stores dedicated to offering first-rate and world-beating product and service lines. >>> Typescript, NextJs, NestJs, K8s, MongoDB, Circle CI, AWS',
+//       imageUrl: 'https://via.placeholder.com/250x250',
+//       link: 'https://hz-next-admin.vercel.app/',
+//     },
     {
       title: 'ecoMERN',
       description:
