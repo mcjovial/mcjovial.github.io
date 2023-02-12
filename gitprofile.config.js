@@ -99,7 +99,7 @@ const config = {
     {
       title: 'FarmToDoorExpress',
       description:
-        'Designed and developed the "Customer frontend PWA", "Admin, Delivery & Vendor dashboard", "Customer & Delivery mobile apps" a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup. </br> Developed',
+        'Designed and developed the "Customer frontend PWA", "Admin, Delivery & Vendor dashboard", "Customer & Delivery mobile apps" for a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup. >>> Typescript, ReactJs, React native, NextJs, NestJs, MongoDB, Circle CI, Digital Ocean ',
       imageUrl: 'https://media.licdn.com/dms/image/C4D2DAQHvgYrO-FFjEQ/profile-treasury-image-shrink_800_800/0/1667891501268?e=1676772000&v=beta&t=YJbFR9k_BYb6MDnQd0ds1YdYoGxxeQ7CS-OD7LYhuqo',
       link: 'https://farmtodoorexpress.com/',
     },
