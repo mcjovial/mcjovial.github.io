@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'mcjovial', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,38 +11,43 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
-    instagram: '',
+    linkedin: 'mcjovial',
+    twitter: 'mcjovial1',
+    facebook: 'mcjovial',
+    instagram: 'mcjovial',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'mcjovial',
+    dev: 'mcjovial',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: 'https://mcjovial.dev',
+    phone: '+2349038821990',
+    email: 'emmanuelelias455@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
+    'Typescript',
+    'GoLang',
     'React.js',
+    'React-Native',
     'Node.js',
     'Nest.js',
+    'PHP',
+    'Laravel',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'K8s',
+    'Gin',
     'CSS',
     'Antd',
     'Tailwind',
+    'Serverless framework'
   ],
   experiences: [
     {
