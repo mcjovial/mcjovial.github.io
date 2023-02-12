@@ -26,7 +26,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/e/2PACX-1vTinIHr8Ynjq09jab--nQRPtp1lf0Mj_SNRDi3u9gt_YRPzQ4wUpMvU2fvRUKLV8xnDrPCK15SJDvTb/pub', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
@@ -47,22 +47,27 @@ const config = {
     'CSS',
     'Antd',
     'Tailwind',
-    'Serverless framework'
+    'Serverless framework',
+    'AWS',
+    'GCP',
+    'Digital Ocean',
+    'i18n',
+    'TypeORM',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Heartszibah',
+      position: 'Lead Software Engineer',
+      from: 'August 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://heartszibah.org',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Roar Nigeria Hub',
+      position: 'Software Engineer',
+      from: 'December 2019',
+      to: 'August 2022',
+      companyLink: 'https://roarnigeria.org/',
     },
   ],
   /* certifications: [
@@ -75,10 +80,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Nigeria, Nsukka',
+      degree: 'B.Eng Mechanical Engineering',
+      from: '2016',
+      to: '2021',
     },
     {
       institution: 'Institution Name',
