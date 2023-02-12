@@ -99,7 +99,7 @@ const config = {
     {
       title: 'FarmToDoorExpress',
       description:
-        'Designed and developed the Customer frontend Web app, Admin, Delivery & Vendor dashboard a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup.\n Developed',
+        'Designed and developed the "Customer frontend PWA", "Admin, Delivery & Vendor dashboard", "Customer & Delivery mobile apps" a geolocation-based grocery marketplace that operates primarily in Tanzania. It is a Mustardgreen-owned startup. </br> Developed',
       imageUrl: 'https://media.licdn.com/dms/image/C4D2DAQHvgYrO-FFjEQ/profile-treasury-image-shrink_800_800/0/1667891501268?e=1676772000&v=beta&t=YJbFR9k_BYb6MDnQd0ds1YdYoGxxeQ7CS-OD7LYhuqo',
       link: 'https://farmtodoorexpress.com/',
     },
