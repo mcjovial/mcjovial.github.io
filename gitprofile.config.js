@@ -58,7 +58,7 @@ const config = {
   ],
   experiences: [
     {
-      company: 'IntegerSaaS',
+      company: 'IntegerSaaS (SaaS)',
       position: 'Platform Engineer',
       from: 'February 2023',
       to: 'Present',
