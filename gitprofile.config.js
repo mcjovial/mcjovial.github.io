@@ -38,6 +38,8 @@ const config = {
     'Nest.js',
     'PHP',
     'Laravel',
+    'Java',
+    'Springboot',
     'MySQL',
     'PostgreSQL',
     'Git',
@@ -56,11 +58,18 @@ const config = {
   ],
   experiences: [
     {
+      company: 'IntegerSaaS',
+      position: 'Platform Engineer',
+      from: 'February 2023',
+      to: 'Present',
+      companyLink: 'https://integersaas.com',
+    },
+    {
       company: 'Heartszibah',
       position: 'Lead Software Engineer',
-      from: 'August 2022',
-      to: 'Present',
-      companyLink: 'https://heartszibah.org',
+      from: 'June 2022',
+      to: 'March 2023',
+      companyLink: 'https://heartszibah.com',
     },
     {
       company: 'Roar Nigeria Hub',
@@ -71,10 +80,10 @@ const config = {
     },
     {
       company: 'Blaitware',
-      position: 'Senior Software Engineer',
+      position: 'Senior Software Engineer & DevOps',
       from: 'February 2016',
-      to: 'Present (Part-time)',
-      companyLink: 'https://roarnigeria.org/',
+      to: 'December 2019',
+      companyLink: 'https://blaitware.com/',
     },
   ],
   /* certifications: [
